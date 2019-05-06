@@ -1,8 +1,8 @@
 # ArounDogProject
 [ javaEE ] 유기견 보호 센터 팀 프로젝트
 
+<div width="50%">
 [ 기술 명세 ]
-
 *****************************공통********************************
 - JQuery 사용
 - CRUD 구현
@@ -27,7 +27,9 @@
 - restful 
 - 외부 api (google map) 처리
 - json, mail, 로그인 중복처리, 비밀번호 확인
+</div>
 
+<div width="50%">
 [관리자 UI]<br>
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMTg5/MDAxNTU3MTI3MjU1NjI0.5IGI4-eZcrNq4eo3P63-XtO2nQB_fLmfKaVU3E7mhrUg.1f5TXRpW4fSjwcupJCuHzbTX0M1aj-aUVOj_5DJba0sg.PNG.kwjing93/image.png?type=w966">
 
@@ -51,6 +53,6 @@
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjQ0/MDAxNTU3MTI4MDcyMjg0.apW1XEy3QwoHWzT_mT6WkRrIXus4gAMPu31CQuhPLJ0g.U8p-2acf8bLPCrrSCAMlVKebyiaWfULk1HulMQi5efAg.PNG.kwjing93/image.png?type=w966">
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfODYg/MDAxNTU3MTI4MTI0NzA3.C3hRtutkIHTyMQbizK5rKEt7qFBx_P2vCpKLoikOWjwg.p72SVRVzeK2S65BwG7YXYe6Vibe11668wRYHXGwE1e4g.PNG.kwjing93/image.png?type=w966">
-
+</div>
 
 
