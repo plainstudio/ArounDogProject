@@ -1,7 +1,7 @@
 # ArounDogProject
-[javaEE] 유기견 보호 센터 팀 프로젝트
+[ javaEE ] 유기견 보호 센터 팀 프로젝트
 
-[관리자 UI]
+[관리자 UI]<br>
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMTg5/MDAxNTU3MTI3MjU1NjI0.5IGI4-eZcrNq4eo3P63-XtO2nQB_fLmfKaVU3E7mhrUg.1f5TXRpW4fSjwcupJCuHzbTX0M1aj-aUVOj_5DJba0sg.PNG.kwjing93/image.png?type=w966">
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjU5/MDAxNTU3MTI3MzMyNDM4.EwMY-8areiKw4F2aqqQLfGIakmDPy4TyuOauuFmHeEkg.mTFoRwk-gAAl8Rp1CLYdwoMYCMIL8n8f6YkcPhVMHPkg.PNG.kwjing93/image.png?type=w966">
@@ -12,10 +12,9 @@
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfOSAg/MDAxNTU3MTI3NTg0OTUx.1mgYVBhkjwgng5KouyqJUi3egDQKfx4-0IH2EugW6tkg.GbezqDCQkM4JvzKBszeJuARsGJmrF9yudoeanlYVRtcg.PNG.kwjing93/image.png?type=w966">
 
+<br>[유저 UI]<br>
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjM2/MDAxNTU3MTI3NjM1NzQ0.Ag5YjR3iJGiz1x5kscksna2Db1elUM-1Q9Iej0AljjAg.Rkr7X2huGovEe-HcO2CZnG4JqEpu6hi_Flh8-GoKXcsg.PNG.kwjing93/image.png?type=w966">
 
-
-[유저 UI]
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjU1/MDAxNTU3MTI3NjgwNTcy.SPEU5HmwgGdhb0eEkwSKd4cZcM_uSIMQZIWIYyi2p98g.-97G_57HhyIrAdI_MAjf6cHQSaRzIz8yTpmieF9yPqkg.PNG.kwjing93/image.png?type=w966">
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMTIx/MDAxNTU3MTI3NzA5NjY4.2dH80AWxSMVupOk6J5eFH3IA5QfRWdRWmsuis6CTD1kg.NiPo1CG7_nkMO89uFj6GiDnlyXQTIHOy6Xz_CzdSv0gg.PNG.kwjing93/image.png?type=w966">
