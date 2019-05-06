@@ -12,9 +12,9 @@
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfOSAg/MDAxNTU3MTI3NTg0OTUx.1mgYVBhkjwgng5KouyqJUi3egDQKfx4-0IH2EugW6tkg.GbezqDCQkM4JvzKBszeJuARsGJmrF9yudoeanlYVRtcg.PNG.kwjing93/image.png?type=w966">
 
-<br>[유저 UI]<br>
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjM2/MDAxNTU3MTI3NjM1NzQ0.Ag5YjR3iJGiz1x5kscksna2Db1elUM-1Q9Iej0AljjAg.Rkr7X2huGovEe-HcO2CZnG4JqEpu6hi_Flh8-GoKXcsg.PNG.kwjing93/image.png?type=w966">
 
+<br>[유저 UI]<br>
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMjU1/MDAxNTU3MTI3NjgwNTcy.SPEU5HmwgGdhb0eEkwSKd4cZcM_uSIMQZIWIYyi2p98g.-97G_57HhyIrAdI_MAjf6cHQSaRzIz8yTpmieF9yPqkg.PNG.kwjing93/image.png?type=w966">
 
 <img width="50%" src="https://postfiles.pstatic.net/MjAxOTA1MDZfMTIx/MDAxNTU3MTI3NzA5NjY4.2dH80AWxSMVupOk6J5eFH3IA5QfRWdRWmsuis6CTD1kg.NiPo1CG7_nkMO89uFj6GiDnlyXQTIHOy6Xz_CzdSv0gg.PNG.kwjing93/image.png?type=w966">
