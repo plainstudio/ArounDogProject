@@ -1,16 +1,16 @@
 # ArounDogProject
 [ javaEE ] 유기견 보호 센터 팀 프로젝트
-[ 기술 명세 ]
-#공통<br>
-<br>- JQuery 사용
-<br>- CRUD 구현
-<br>- mybatis를 활용한 sql문 매핑
-<br>- db연동 및 db 입출력
-<br>- spring mvc 패턴 이용한 webapplication 제작 (mvc 2)
-<br>- 어노테이션 기반 controller 구현
-<br>- exception handler와 사용자 정의 runtimeException을 활용한 예외처리
-<br>- 페이저 처리
-<br>- 파일 업로더 처리
+<br>[ 기술 명세 ]
+<br>**공통**<br>
+- JQuery 사용
+- CRUD 구현
+- mybatis를 활용한 sql문 매핑
+- db연동 및 db 입출력
+- spring mvc 패턴 이용한 webapplication 제작 (mvc 2)
+- 어노테이션 기반 controller 구현
+- exception handler와 사용자 정의 runtimeException을 활용한 예외처리
+- 페이저 처리
+- 파일 업로더 처리
 <br>==============================member============================<br>
 - 로그인 처리
 - hash함수를 활용해 비밀번호 암호화 처리
