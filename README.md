@@ -1,5 +1,5 @@
 # ArounDogProject
-[ javaEE ] 유기견 보호 센터 팀 프로젝트_ 담당 업무 : 관리자 회원, 입양 게시물 / 유저 회원, 입양 게시물 
+[ javaEE ] 유기견 보호 센터 팀 프로젝트_ 담당 업무 : (관리자) 회원, 입양 게시물 / (유저) 회원, 입양 게시물 
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTY2/MDAxNTU3MjQxMzc5NDk2.HxAgqP2dJOv36ksHMjRP7zJmwUAbmn9mkPTBvegNHC0g.-bXVi1dEyOUHvpJdaetlrKOIC9BCiFi9b1_Pfxfhhbsg.PNG.kwjing93/AROUNDOG_1.png?type=w966">
