@@ -33,17 +33,18 @@
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMjA0/MDAxNTU3MzE4NzE5NjUz.FPY7hvpKOFmYhzvXipDuRa3AcybZ9kKnIUQm2ph8coMg.vO_75keBF2nAiA3WW9EEdY7M0RdwVtm7vT4P1xQPhIwg.PNG.kwjing93/AROUNDOG_4-1.png?type=w966">
 ◎유저) 로그인, 가입 영역<br/>
-1) AOP 기반 로그인 처리<br/>
-  로그인 여부에 따라 [LOGOUT] 메뉴 생성<br/>
+1) 로그인 여부에 따라 [ LOGOUT ] [ MYPAGE ] 메뉴 생성<br/>
 
+2) 중복 가입 방지를 위한 controller의 idCheck()메서드 구현
 
+3) JSON parsing으로 결과값에 따라 가입조건에 부합한 유저만 가입진행
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTc4/MDAxNTU3MzE4NzIxNjg2.db-MH4uL5r3HvB_4EIjes8AO51g18wEAvsmLeUdxpfYg.KKuNYfm8Mtu04T9iVaIiXzzco9daebP4riw-HPB0ekUg.PNG.kwjing93/AROUNDOG_5-1.png?type=w966">
 ◎유저) 입양 게시물 보기 영역<br/>
 1) adoptboardPager 클래스를 정의하여 페이징 처리<br/>
-2) bootstrap4 icon을 적용<br/>
+2) Bootstrap4 icon을 적용<br/>
 3) ckeditor로 저장했던 값 DB에서 불러오기<br/>
 4) controlle에서 List로 전체 목록을 받아와 이전, 다음 페이지 처리<br/>
-
+5) session 체크를 통해 회원의 경우 입양신청 버튼의 노출
 
