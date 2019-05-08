@@ -17,12 +17,12 @@
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTE0/MDAxNTU3MjQxMjc5MDcw.OJSCNScTqIUDlFT12HwEepDnu3i-cdV_O-omm27-vMwg.S4fdTxqEm_uy9okjrMsLLf7ZlXXYCX3Uu9IbXXKa_7sg.PNG.kwjing93/AROUNDOG_3.png?type=w966">
 
 1) CommonsMultipartResolver를 통한 파일 업로드
-fileManager 클래스 정의하여 사진 파일에 대해 uploader와 업무 분리
-Uploader 클래스를 정의하여 controller와 파일 업로드 업무 분리
-System객체를 사용해 날짜로 새로운 파일명 부여
+   fileManager 클래스 정의하여 사진 파일에 대해 uploader와 업무 분리
+   Uploader 클래스를 정의하여 controller와 파일 업로드 업무 분리
+   System객체를 사용해 날짜로 새로운 파일명 부여
 
 2) Association, resultmap, selectKey를 활용해 join문 처리
-어노테이션 기반 transaction 처리
+   어노테이션 기반 transaction 처리
 
 3) Ckeditor 4버전 사용
 
@@ -31,7 +31,7 @@ System객체를 사용해 날짜로 새로운 파일명 부여
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTcw/MDAxNTU3MjQxMjgyMDgx.Xscd8D3gXz9vrw4KNqDvGY8xAG5yUJpBpnWNF8UBe0Ig.hCWXxuujM6lbtR2G7-4A_ESbhfPvYm3jACYsutpX8KYg.PNG.kwjing93/AROUNDOG_4.png?type=w966">
 
 1) AOP 기반 로그인 처리
-로그인 여부에 따라 [LOGOUT] 메뉴 생성
+  로그인 여부에 따라 [LOGOUT] 메뉴 생성
 
 
 4 유저 입양 게시물 보기 영역
