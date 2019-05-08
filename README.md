@@ -7,6 +7,7 @@
 
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM4/MDAxNTU3MzE4Njk5OTU0.R13Ja4s9Y3fe82S4b1qand8Th4-AkCasVn_NvuxMGfog.TyCuPmlqTwUzjYhxKft1GeGYGipRP9a4gHXLPZZzVLog.PNG.kwjing93/AROUNDOG_2-1.png?type=w966">
+
 ◎관리자) 회원관리 영역<br/>
 1) SHA 256을 이용한 비밀번호 암호화<br/>
 2) AOP 기반 로그인 처리<br/>
