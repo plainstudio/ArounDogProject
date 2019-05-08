@@ -42,10 +42,10 @@
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTI0/MDAxNTU3MzI2ODA3MTEw.d2Lnn64aNVv0i1f0LQr2b063HFJfS8TTuq8e_fPU1tEg.-c7sxtBNhuGiORQCHH0OWBHz2ha9wHjs1ZU4_RXRHg8g.PNG.kwjing93/AROUNDOG_5-1(%EC%88%98%EC%A0%95).png?type=w966">
 ◎유저) 입양 게시물 보기 영역<br/>
-1) adoptboardPager 클래스를 정의하여 페이징 처리
-2) Bootstrap4 icon을 적용
-3) session 체크를 통해 회원의 경우 입양신청 버튼의 노출
-4) ckeditor로 저장했던 값 DB에서 불러오기
-5) controlle에서 List로 전체 목록을 받아와 이전, 다음 페이지 처리
+1) adoptboardPager 클래스를 정의하여 페이징 처리<br/>
+2) Bootstrap4 icon을 적용<br/>
+3) session 체크를 통해 회원의 경우 입양신청 버튼의 노출<br/>
+4) ckeditor로 저장했던 값 DB에서 불러오기<br/>
+5) controlle에서 List로 전체 목록을 받아와 이전, 다음 페이지 처리<br/>
 
 
