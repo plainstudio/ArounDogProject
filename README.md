@@ -48,4 +48,6 @@
 4) ckeditor로 저장했던 값 DB에서 불러오기<br/>
 5) controlle에서 List로 전체 목록을 받아와 이전, 다음 페이지 처리<br/>
 
+6) google map api 
+
 
