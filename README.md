@@ -35,6 +35,7 @@
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjI2/MDAxNTU3NjQ5MTI3MTI0.DMlZ4Ad-wGBrAb2RhJmT6OPxZyClMD6Y38DMxRezDjIg.WaRfcxMrYtfvcZeXcZGpqtdgbMa_3nDTXW7i0fCYMy0g.PNG.kwjing93/AROUNDOG_4-1(0512).png?type=w966">
 [ 유저_로그인, 가입 영역 ]
 
+
 - (1) Session 속성을 이용한 로그인, 로그아웃 View 처리
 - (2) 중복 가입 방지 처리
 - (3) JQuery Ajax의 요청처리 결과를 JSON으로 parsing하여 결과값에 따라 가입조건에 부합한 유저만 가입진행
@@ -42,6 +43,7 @@
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMTQ5/MDAxNTU3NjQ5MTI5MDM3.nmj8ZEhn4qkUhaBiXcnjHO1HBPKesmWM0weV6VUEL-4g.9tK56QhyWMA1MvTBWs4PtAxbVeLKPTHCRNrzYBl64jwg.PNG.kwjing93/AROUNDOG_5-1(%EC%88%98%EC%A0%95)(0512).png?type=w966">
 [ 유저_입양 게시물 보기 영역 ]
+
 
 - (1) AdoptboardPager 클래스를 정의하여 게시물에 대한 페이징 처리<br/>
 - (2) Bootstrap4 Icon을 적용<br/>
