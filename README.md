@@ -2,7 +2,7 @@
 [ javaEE ] 유기견 보호 센터 팀 프로젝트_ 담당 업무 : (관리자) 회원, 입양 게시물 / (유저) 회원, 입양 게시물 
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjgw/MDAxNTU3NjQ5MTE3Nzk5.tf80u-6f_cIBZd1bqmbL9521424W6iLa7yWaLXBaFm8g.fPJYvJHrZsWW98V2byHP_TsKZcx44hf9P1Dj2DQnPf4g.PNG.kwjing93/AROUNDOG_1(0512).png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjgx/MDAxNTU3NjQ5Mzc3MDE4.xYokvZEzDY1Ev5zcO2Pj233MyVwe5bI8qI8SJs44HoMg.8wjzwANRcqM5dUfSPj6O7S8c-KSnRxVigrdewRtMUrQg.PNG.kwjing93/AROUNDOG_1(0512).png?type=w966">
 
 
 
