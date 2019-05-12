@@ -2,11 +2,11 @@
 [ javaEE ] 유기견 보호 센터 팀 프로젝트_ 담당 업무 : (관리자) 회원, 입양 게시물 / (유저) 회원, 입양 게시물 
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTY2/MDAxNTU3MjQxMzc5NDk2.HxAgqP2dJOv36ksHMjRP7zJmwUAbmn9mkPTBvegNHC0g.-bXVi1dEyOUHvpJdaetlrKOIC9BCiFi9b1_Pfxfhhbsg.PNG.kwjing93/AROUNDOG_1.png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjgw/MDAxNTU3NjQ5MTE3Nzk5.tf80u-6f_cIBZd1bqmbL9521424W6iLa7yWaLXBaFm8g.fPJYvJHrZsWW98V2byHP_TsKZcx44hf9P1Dj2DQnPf4g.PNG.kwjing93/AROUNDOG_1(0512).png?type=w966">
 
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTM4/MDAxNTU3MzE4Njk5OTU0.R13Ja4s9Y3fe82S4b1qand8Th4-AkCasVn_NvuxMGfog.TyCuPmlqTwUzjYhxKft1GeGYGipRP9a4gHXLPZZzVLog.PNG.kwjing93/AROUNDOG_2-1.png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMTYz/MDAxNTU3NjQ5MTE5NzIy.IBl93laDQZkxduGnXTKP3pwFDC06fIndBSaN1TOJUBcg.AzWnK3EmUG5wECMWKjPotYmguCQ4sRx1_urQ1edc-PEg.PNG.kwjing93/AROUNDOG_2(0512.png?type=w966">
 
 [ 관리자_회원관리 영역 ]
 - (1) SHA 256을 이용한 비밀번호 암호화<br/>
@@ -16,7 +16,7 @@
 
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTA2/MDAxNTU3MzE4NzE3MTI2.E4BRZyP0BFfoopz6dG9Y3g6cv_DuFF6h2Wfj6PG32u4g.dAp53xEeJe3OdGwUvfJAE1hodg3bVM5PpMPh9C1MwPog.PNG.kwjing93/AROUNDOG_3-1.png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjQg/MDAxNTU3NjQ5MTIyOTQ1.Ct_Q4LHpea3Q6--cI08dr3IYVk6S5hhbqD-lxGi0t9wg.__09gRxwogSkmR2d9QOcN8jlcReolhrRNVG9FtNhJzEg.PNG.kwjing93/AROUNDOG_3-1(0512).png?type=w966">
 [ 관리자_입양 게시물 역역 ]
 
 - (1) CommonsMultipartResolver를 적용한 파일 업로드<br/>
@@ -32,7 +32,7 @@
 
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTQw/MDAxNTU3MzI2ODA2MTE1.iW3Ay1HQuD7gKdvPo-z9dzT5y4KEIS2ixUJwOviV2Mcg.l9ZZX56aZXy4isalkc0oHmCTFKxlZvPghheRcYYkahAg.PNG.kwjing93/AROUNDOG_4-1(%EC%88%98%EC%A0%95).png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMjI2/MDAxNTU3NjQ5MTI3MTI0.DMlZ4Ad-wGBrAb2RhJmT6OPxZyClMD6Y38DMxRezDjIg.WaRfcxMrYtfvcZeXcZGpqtdgbMa_3nDTXW7i0fCYMy0g.PNG.kwjing93/AROUNDOG_4-1(0512).png?type=w966">
 [ 유저_로그인, 가입 영역 ]
 
 - (1) Session 속성을 이용한 로그인, 로그아웃 View 처리
@@ -40,7 +40,7 @@
 - (3) JQuery Ajax의 요청처리 결과를 JSON으로 parsing하여 결과값에 따라 가입조건에 부합한 유저만 가입진행
 
 
-<img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTI0/MDAxNTU3MzI2ODA3MTEw.d2Lnn64aNVv0i1f0LQr2b063HFJfS8TTuq8e_fPU1tEg.-c7sxtBNhuGiORQCHH0OWBHz2ha9wHjs1ZU4_RXRHg8g.PNG.kwjing93/AROUNDOG_5-1(%EC%88%98%EC%A0%95).png?type=w966">
+<img src="https://postfiles.pstatic.net/MjAxOTA1MTJfMTQ5/MDAxNTU3NjQ5MTI5MDM3.nmj8ZEhn4qkUhaBiXcnjHO1HBPKesmWM0weV6VUEL-4g.9tK56QhyWMA1MvTBWs4PtAxbVeLKPTHCRNrzYBl64jwg.PNG.kwjing93/AROUNDOG_5-1(%EC%88%98%EC%A0%95)(0512).png?type=w966">
 [ 유저_입양 게시물 보기 영역 ]
 
 - (1) AdoptboardPager 클래스를 정의하여 게시물에 대한 페이징 처리<br/>
